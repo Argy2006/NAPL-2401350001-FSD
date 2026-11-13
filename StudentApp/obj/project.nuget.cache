@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5QdNNg8J2yg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\NAPL-2401350001-FSD\\StudentApp\\StudentApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\fsharp.core\\10.1.403\\fsharp.core.10.1.403.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.data.sqlite\\11.0.0\\microsoft.data.sqlite.11.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.data.sqlite.core\\11.0.0\\microsoft.data.sqlite.core.11.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\sqlite\\3.53.4\\sqlite.3.53.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\3.0.5\\sqlitepclraw.bundle_e_sqlite3.3.0.5.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\sqlitepclraw.config.e_sqlite3\\3.0.5\\sqlitepclraw.config.e_sqlite3.3.0.5.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\sqlitepclraw.core\\3.0.5\\sqlitepclraw.core.3.0.5.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\3.0.5\\sqlitepclraw.provider.e_sqlite3.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
